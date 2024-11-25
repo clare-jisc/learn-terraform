@@ -12,7 +12,7 @@ Copy the steps in the tutorials to link terraform to an AWS account and [practic
 
 Following the steps in this blog article to [set up and manage terraform state file in an AWS S3 Remote Backend](https://dev.to/sre_panchanan/introduction-to-aws-s3-remote-backend-with-terraform-28i7) using terraform
 
-see `state.txt` for a copy fo the configuration file
+see `state.txt` for a copy of the configuration file
 
 
 
